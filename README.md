@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harimypala
-- 👀 I’m interested in Pentester
+- 👀 I’m a Pentester
 - 🌱 I’m currently exploring the complete Cyber Security Domain.
 
 
